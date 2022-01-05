@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'zwan dev log',
-  domain: 'zwan2.github.io',
+  domain: 'zwan2.notion.site',
   author: 'zwan2',
 
   // open graph metadata (optional)
